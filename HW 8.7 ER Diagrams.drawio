@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T01:37:04.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ygGq7S-SrGhEinVBGXNJ" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T01:39:53.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="3BYnv5mDtvy4pBPU4jTl" version="14.5.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -354,6 +354,9 @@
             <mxPoint x="844" y="1310" as="sourcePoint" />
             <mxPoint x="799" y="1280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7jDqQBMyQRLBIUlyPHuI-136" value="maybe doctors and nurses should be ISA relationsips?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="930" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
